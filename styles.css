@@ -25,12 +25,15 @@ a{
 }
 
 .media{
-	background-color: rgb(255, 255, 255); 
 	padding:10px; 
 	border: 2px solid black;
 	border-radius:10px;
+	background-color: rgb(255, 255, 255); 
 }
 
-video, audio{
+.player_one, .player_two{
 	width:100%;
+	background-color: rgb(255, 255, 255); 
+	padding:10px;
+	border-radius:10px;
 }
